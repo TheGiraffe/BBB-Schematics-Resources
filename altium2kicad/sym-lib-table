@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name P01_Title-Page-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P01_Title Page-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P02_Power-Management-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P02_Power Management-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P06_LED,-Config-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P06_LED, Config-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P07_DDR3-Memory-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P07_DDR3 Memory-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P08_eMMC-FLASH-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P08_eMMC FLASH-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P09_10_100-Ethernet-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P09_10_100 Ethernet-SchDoc-rescue.lib")(options "")(descr ""))
+  (lib (name P10_HDMI-SchDoc-rescue)(type Legacy)(uri ${KIPRJMOD}/P10_HDMI-SchDoc-rescue.lib)(options "")(descr ""))
+  (lib (name P11_Exp-Conn,-uSD-SchDoc-rescue)(type Legacy)(uri "${KIPRJMOD}/P11_Exp Conn, uSD-SchDoc-rescue.lib")(options "")(descr ""))
+)
