@@ -1,0 +1,56 @@
+SECTION DesignInfo
+LIST IndependentLibraries
+VALUE "DIR [W] . (BeagleBoneBlack)"
+VALUE "DIR [R] .\Libs\Border (Border)"
+VALUE "DIR [R] .\Libs\Documentation (Documentation)"
+VALUE "DIR [R] .\Libs\Power_Ground (Power_Ground)"
+VALUE "DIR [R] .\Libs\common (common)"
+VALUE "DIR [R] .\Libs\preview (preview)"
+VALUE "DIR [R] .\Libs\evaluation (evaluation)"
+VALUE "DIR [W] .\Libs\BeagleBoneBlack (BEAGLEBONEBLK_A5A_162)"
+ENDLIST
+KEY BorderSymbols "./borders.ini"
+KEY Bus_Contents "./busconts.ini"
+KEY CentralLibrary ""
+KEY CnsFileName "%SDD_HOME%/standard/isis/pads95.cns"
+KEY FrontEndSnapshot "DxD"
+KEY LayoutID "PADS95"
+KEY PcbCfgFileName "./pads95.cfg"
+KEY PropertyDefinitions "./netlist.prp"
+KEY PinComponents "./speccomp.ini"
+KEY SheetsEditMode "1"
+KEY DxD_Version "7.9.4"
+ENDSECTION
+SECTION FlowSettings
+KEY FlowType "NETLIST"
+ENDSECTION
+SECTION ICXProInfo
+KEY ICXProDir "ICXPro"
+ENDSECTION
+SECTION ProjectBackup
+KEY ConfigFile ".\ProjectBackup\ProjectBackup.cfg"
+ENDSECTION
+SECTION Template_Design
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION iCDB
+LIST Designs
+VALUE "BeagleBoneBlack"
+ENDLIST
+KEY DedicatedServerName ""
+KEY iCDBDir ".\database"
+ENDSECTION
+SECTION BeagleBoneBlack
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+KEY RootBlock "beagleboneblack"
+ENDSECTION

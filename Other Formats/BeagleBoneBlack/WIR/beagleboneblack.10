@@ -1,0 +1,622 @@
+| Wirelist created using version 6.0 
+V 6.0
+DW beagleboneblack
+|Q beagleboneblk_a5a_162:mhole 1
+AS beagleboneblk_a5a_162:mhole REFDES=MH?
+AS beagleboneblk_a5a_162:mhole DEVICE=MHOLE
+AS beagleboneblk_a5a_162:mhole PARTS=1
+AS beagleboneblk_a5a_162:mhole PKG_TYPE=MH230-156
+AS beagleboneblk_a5a_162:mhole Model
+AS beagleboneblk_a5a_162:mhole INOV_VER_REC=14:24:12_6-25-13
+AS beagleboneblk_a5a_162:mhole PINORDER=TP
+AP beagleboneblk_a5a_162:mhole 1 #=1
+AP beagleboneblk_a5a_162:mhole 1 PINTYPE=IN
+|Q beagleboneblk_a5a_162:testpt1 1
+AS beagleboneblk_a5a_162:testpt1 REFDES=TP?
+AS beagleboneblk_a5a_162:testpt1 DEVICE=TESTPT1
+AS beagleboneblk_a5a_162:testpt1 PARTS=1
+AS beagleboneblk_a5a_162:testpt1 PKG_TYPE=TP1-8040
+AS beagleboneblk_a5a_162:testpt1 Model=TP
+AS beagleboneblk_a5a_162:testpt1 INOV_VER_REC=17:57:19_6-25-13
+AS beagleboneblk_a5a_162:testpt1 PINORDER=TP
+AP beagleboneblk_a5a_162:testpt1 1 #=1
+AP beagleboneblk_a5a_162:testpt1 1 PINTYPE=IN
+|Q beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 REFDES=C?
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DEVICE=CAP_10UF_Y5V_10V_10__0805
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 PARTS=1
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 PKG_TYPE=R402-25RD
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DESCRIPTION=CAP CER 10UF 10V Y5V 0805
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 VALUE=10uF
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 INOV_VER_REC=14:01:49_7-10-13
+AS beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 PINORDER=1 2
+AP beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+AP beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+AP beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 1
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 REFDES=C?
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 DEVICE=CAP_470PF_X7R_25V_10__0402
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 PARTS=1
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 PKG_TYPE=402
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 DESCRIPTION=Capacitor 470pF 25V 10% X7R
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 VALUE=470pF,6.3V
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 INOV_VER_REC=13:36:29_6-25-13
+AS beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 PINORDER=1 2
+AP beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 1 #=1
+AP beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 2 #=2
+AP beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:res_470_1_10w_5__0402 1
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 REFDES=R?
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 DEVICE=RES_470_1/10W_5__0402
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 PARTS=1
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 PKG_TYPE=402
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 DESCRIPTION=RES 470 OHM 1/10W 5% 0402 SMD
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 VALUE=470,5%
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 INOV_VER_REC=11:23:33_7-8-13
+AS beagleboneblk_a5a_162:res_470_1_10w_5__0402 PINORDER=1 2
+AP beagleboneblk_a5a_162:res_470_1_10w_5__0402 1 #=1
+AP beagleboneblk_a5a_162:res_470_1_10w_5__0402 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:res_470_1_10w_5__0402 2 #=2
+AP beagleboneblk_a5a_162:res_470_1_10w_5__0402 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:res_100k_1_16w_1__0402 1
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 REFDES=R?
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 DEVICE=RES_100K_1/16W_1__0402
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 PARTS=1
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 PKG_TYPE=402
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 DESCRIPTION=Resistor 100Kohm 1/16W 1% 0402
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 VALUE=100K,1%
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 INOV_VER_REC=9:35:1_7-11-13
+AS beagleboneblk_a5a_162:res_100k_1_16w_1__0402 PINORDER=1 2
+AP beagleboneblk_a5a_162:res_100k_1_16w_1__0402 1 #=1
+AP beagleboneblk_a5a_162:res_100k_1_16w_1__0402 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:res_100k_1_16w_1__0402 2 #=2
+AP beagleboneblk_a5a_162:res_100k_1_16w_1__0402 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 REFDES=C?
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 DEVICE=CAP_2_2UF_X5R_6_3V_10__0402
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 PARTS=1
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 PKG_TYPE=402
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 DESCRIPTION=CAP, CER, X7R, 0402, 50V, 10%, 0.1uF
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 VALUE=2.2uF,6.3V
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 INOV_VER_REC=13:35:44_6-25-13
+AS beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 PINORDER=1 2
+AP beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1 #=1
+AP beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 2 #=2
+AP beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 REFDES=R?
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 DEVICE=RES_4_75K_1/16W_1__0402
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 PARTS=1
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 PKG_TYPE=402
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 DESCRIPTION=RES 4.75K OHM 1/16W 1% 0402 SMD
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VALUE=4.75K,1%
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 INOV_VER_REC=17:55:2_6-25-13
+AS beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 PINORDER=1 2
+AP beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+AP beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+AP beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 1
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 REFDES=R?
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 DEVICE=RES_1_5K_1/16W_5__0402_2
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 PARTS=1
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 PKG_TYPE=402
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 DESCRIPTION=RES 1.5K OHM 1/16W 5% 0402 SMD
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 VALUE=1.5K,5%
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 INOV_VER_REC=17:54:3_6-25-13
+AS beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 PINORDER=1 2
+AP beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 1 #=1
+AP beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 2 #=2
+AP beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 1
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ REFDES=C?
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ DEVICE=CAP_0_1UF_X5R_6_3V_20_0201
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ PARTS=1
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ PKG_TYPE=402
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ DESCRIPTION=Capacitor 0.01uF 16V 10% 0402
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ VALUE=0.1uf,6.3V
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ INOV_VER_REC=12:10:50_7-8-13
+AS beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ PINORDER=1 2
+AP beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 1 #=1
+AP beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 2 #=2
+AP beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:sw_kt11p2jm_2 1
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 REFDES=S?
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 DEVICE=SW_KT11P2JM_2
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 PARTS=1
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 PKG_TYPE=SM-SW-SPST-4-4
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 CLASS=DISCRETE
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 Model=KT11P2JM
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 INOV_VER_REC=17:56:54_6-25-13
+AS beagleboneblk_a5a_162:sw_kt11p2jm_2 PINORDER=A1 A2 B1 B2
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 1 #=1
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 2 #=3
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 2 PINTYPE=IN
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 3 #=2
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 3 PINTYPE=IN
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 4 #=4
+AP beagleboneblk_a5a_162:sw_kt11p2jm_2 4 PINTYPE=IN
+|Q beagleboneblk_a5a_162:power_jack 1
+AS beagleboneblk_a5a_162:power_jack REFDES=J?
+AS beagleboneblk_a5a_162:power_jack DEVICE=POWER_JACK
+AS beagleboneblk_a5a_162:power_jack PARTS=1
+AS beagleboneblk_a5a_162:power_jack PKG_TYPE
+AS beagleboneblk_a5a_162:power_jack Model
+AS beagleboneblk_a5a_162:power_jack INOV_VER_REC=11:18:19_6-25-13
+AS beagleboneblk_a5a_162:power_jack PINORDER=1 2 3
+AP beagleboneblk_a5a_162:power_jack 1 #=1
+AP beagleboneblk_a5a_162:power_jack 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:power_jack 2 #=2
+AP beagleboneblk_a5a_162:power_jack 2 PINTYPE=IN
+AP beagleboneblk_a5a_162:power_jack 3 #=3
+AP beagleboneblk_a5a_162:power_jack 3 PINTYPE=IN
+|Q beagleboneblk_a5a_162:led_ltst_c150gkt_0 1
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 REFDES=D?
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 DEVICE=LED_LTST-C150GKT_0
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 PARTS=1
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 PKG_TYPE=LED1206-59X59
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 Model=LTST-C150GKT
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 INOV_VER_REC=16:13:15_6-25-13
+AS beagleboneblk_a5a_162:led_ltst_c150gkt_0 PINORDER=A C
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 1 #=2
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 1 Order=1
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 2 #=1
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 2 Order=0
+AP beagleboneblk_a5a_162:led_ltst_c150gkt_0 2 PINTYPE=IN
+|Q beagleboneblk_a5a_162:pwr_tlv70233dbv_0 1
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 REFDES=U?
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 DEVICE=PWR_TLV70233DBV_0
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 PARTS=1
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 PKG_TYPE
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 Model=TL5209
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 INOV_VER_REC=16:46:9_6-25-13
+AS beagleboneblk_a5a_162:pwr_tlv70233dbv_0 PINORDER=ADJ EN GND1 GND2 GND3 GND4 IN OUT
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 1 #=4
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 2 #=1
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 2 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 3 #=5
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 3 PINTYPE=POWER
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 4 #=7
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 4 PINTYPE=POWER
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 5 #=6
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 5 PINTYPE=POWER
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 6 #=8
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 6 PINTYPE=POWER
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 7 #=2
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 7 PINTYPE=POWER
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 8 #=3
+AP beagleboneblk_a5a_162:pwr_tlv70233dbv_0 8 PINTYPE=POWER
+|Q beagleboneblk_a5a_162:pwr_tps65217_2 1
+AS beagleboneblk_a5a_162:pwr_tps65217_2 REFDES=U?
+AS beagleboneblk_a5a_162:pwr_tps65217_2 DEVICE=PWR_TPS65217_2
+AS beagleboneblk_a5a_162:pwr_tps65217_2 PARTS=1
+AS beagleboneblk_a5a_162:pwr_tps65217_2 PKG_TYPE=TBD
+AS beagleboneblk_a5a_162:pwr_tps65217_2 Model=TPS65217
+AS beagleboneblk_a5a_162:pwr_tps65217_2 INOV_VER_REC=11:11:54_6-25-13
+AS beagleboneblk_a5a_162:pwr_tps65217_2 PINORDER=AC AGND BAT1 BAT2 BAT_SENSE BYPASS FB_WLED INT INT_LDO ISET1 ISET2 ISINK1 ISINK2 L1 L2 L3 L4 LDO3 LDO3_IN LDO4 LDO4_IN LDO_PGOOD MUX_IN MUX_OUT NC NC1 PB_IN PGND PGOOD PPAD PWR_EN RESET SCL SDA SYS1 SYS2 TS USB VDCDC1 VDCDC2 VDCDC3 VINLDO VIN_DCDC1 VIN_DCDC2 VIN_DCDC3 VIO VLDO1 VLDO2 WAKEUP
+AP beagleboneblk_a5a_162:pwr_tps65217_2 1 #=10
+AP beagleboneblk_a5a_162:pwr_tps65217_2 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 2 #=41
+AP beagleboneblk_a5a_162:pwr_tps65217_2 2 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 3 #=4
+AP beagleboneblk_a5a_162:pwr_tps65217_2 3 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 4 #=5
+AP beagleboneblk_a5a_162:pwr_tps65217_2 4 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 5 #=6
+AP beagleboneblk_a5a_162:pwr_tps65217_2 5 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 6 #=47
+AP beagleboneblk_a5a_162:pwr_tps65217_2 6 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 7 #=38
+AP beagleboneblk_a5a_162:pwr_tps65217_2 7 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 8 #=45
+AP beagleboneblk_a5a_162:pwr_tps65217_2 8 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 9 #=48
+AP beagleboneblk_a5a_162:pwr_tps65217_2 9 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 10 #=35
+AP beagleboneblk_a5a_162:pwr_tps65217_2 10 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 11 #=36
+AP beagleboneblk_a5a_162:pwr_tps65217_2 11 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 12 #=34
+AP beagleboneblk_a5a_162:pwr_tps65217_2 12 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 13 #=33
+AP beagleboneblk_a5a_162:pwr_tps65217_2 13 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 14 #=20
+AP beagleboneblk_a5a_162:pwr_tps65217_2 14 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 15 #=23
+AP beagleboneblk_a5a_162:pwr_tps65217_2 15 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 16 #=31
+AP beagleboneblk_a5a_162:pwr_tps65217_2 16 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 17 #=37
+AP beagleboneblk_a5a_162:pwr_tps65217_2 17 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 18 #=40
+AP beagleboneblk_a5a_162:pwr_tps65217_2 18 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 19 #=39
+AP beagleboneblk_a5a_162:pwr_tps65217_2 19 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 20 #=43
+AP beagleboneblk_a5a_162:pwr_tps65217_2 20 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 21 #=42
+AP beagleboneblk_a5a_162:pwr_tps65217_2 21 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 22 #=46
+AP beagleboneblk_a5a_162:pwr_tps65217_2 22 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 23 #=14
+AP beagleboneblk_a5a_162:pwr_tps65217_2 23 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 24 #=16
+AP beagleboneblk_a5a_162:pwr_tps65217_2 24 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 25 #=15
+AP beagleboneblk_a5a_162:pwr_tps65217_2 25 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 26 #=17
+AP beagleboneblk_a5a_162:pwr_tps65217_2 26 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 27 #=25
+AP beagleboneblk_a5a_162:pwr_tps65217_2 27 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 28 #=30
+AP beagleboneblk_a5a_162:pwr_tps65217_2 28 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 29 #=26
+AP beagleboneblk_a5a_162:pwr_tps65217_2 29 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 30 #=49
+AP beagleboneblk_a5a_162:pwr_tps65217_2 30 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 31 #=9
+AP beagleboneblk_a5a_162:pwr_tps65217_2 31 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 32 #=44
+AP beagleboneblk_a5a_162:pwr_tps65217_2 32 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 33 #=28
+AP beagleboneblk_a5a_162:pwr_tps65217_2 33 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 34 #=27
+AP beagleboneblk_a5a_162:pwr_tps65217_2 34 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 35 #=7
+AP beagleboneblk_a5a_162:pwr_tps65217_2 35 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 36 #=8
+AP beagleboneblk_a5a_162:pwr_tps65217_2 36 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 37 #=11
+AP beagleboneblk_a5a_162:pwr_tps65217_2 37 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 38 #=12
+AP beagleboneblk_a5a_162:pwr_tps65217_2 38 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 39 #=19
+AP beagleboneblk_a5a_162:pwr_tps65217_2 39 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 40 #=24
+AP beagleboneblk_a5a_162:pwr_tps65217_2 40 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 41 #=29
+AP beagleboneblk_a5a_162:pwr_tps65217_2 41 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 42 #=2
+AP beagleboneblk_a5a_162:pwr_tps65217_2 42 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 43 #=21
+AP beagleboneblk_a5a_162:pwr_tps65217_2 43 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 44 #=22
+AP beagleboneblk_a5a_162:pwr_tps65217_2 44 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 45 #=32
+AP beagleboneblk_a5a_162:pwr_tps65217_2 45 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 46 #=18
+AP beagleboneblk_a5a_162:pwr_tps65217_2 46 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 47 #=3
+AP beagleboneblk_a5a_162:pwr_tps65217_2 47 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 48 #=1
+AP beagleboneblk_a5a_162:pwr_tps65217_2 48 PINTYPE=IN
+AP beagleboneblk_a5a_162:pwr_tps65217_2 49 #=13
+AP beagleboneblk_a5a_162:pwr_tps65217_2 49 PINTYPE=IN
+|Q beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd REFDES=L?
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd DEVICE=IND_2_2UH_2_6A_10__SMD
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd PARTS=1
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd PKG_TYPE=VLCF5020T
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd DESCRIPTION=Inductor 2.2uH smt 2.6A, 58 milliohm
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd VALUE=2.2uH,2.6A
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd INOV_VER_REC=14:22:42_6-25-13
+AS beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd PINORDER=1 2
+AP beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1 #=1
+AP beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1 PINTYPE=IN
+AP beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 2 #=2
+AP beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 2 PINTYPE=IN
+G SYS_5V
+G VDD_5V
+G GND_EARTH
+G DGND
+G VDDS
+G VDD_3V3B
+G VRTC
+G VDD_MPU
+G VDD_1V8
+G USB_DC
+G VIO
+G VDDS_DDR
+G VDD_3V3A
+G VDD_CORE
+G VDD_3V3AUX
+M beagleboneblk_a5a_162:mhole $10I22
+I $10I22 beagleboneblk_a5a_162:mhole GND_EARTH Part!List!Exclude=1`DXDB_LIBNAME=BeagleBlack`DEVICE=MHOLE_MTGH200C125D_PL_MHOLE`PKG_TYPE=MTGH200C125D_PL`REFDES=MTG2`DESCRIPTION=MOUNTNG HOLE`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 14:24:12_6-25-13
+API $10I22 beagleboneblk_a5a_162:mhole 1 #=1
+M beagleboneblk_a5a_162:testpt1 $10I33
+I $10I33 beagleboneblk_a5a_162:testpt1 N22420400 Part!List!Exclude=1`Model=TP`DXDB_LIBNAME=BeagleBlack`DEVICE=TESTPT1_TP60C33D_TESTPT1`PKG_TYPE=TP60C33D`REFDES=TP5`DESCRIPTION=TEST POINT`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 17:57:19_6-25-13
+API $10I33 beagleboneblk_a5a_162:testpt1 1 #=1
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I45
+I $10I45 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDD_5V VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805B`REFDES=C2`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I45 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I45 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I59
+I $10I59 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDD_1V8 VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C14`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I59 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I59 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 $10I73
+I $10I73 beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 N21757673 DGND VALUE=470PF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 470PF 50V 10% X7R 0402`DEVICE=TYPE_0072`PKG_TYPE=402M`REFDES=C19`TOLERANCE=10%`RatedVoltage=50V`Manufacturer=Yageo`ManufacturerPN=CC0402KRX7R9BB471`
+|R 13:36:29_6-25-13
+API $10I73 beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 1 #=1
+API $10I73 beagleboneblk_a5a_162:cap_470pf_x7r_25v_10__0402 2 #=2
+M beagleboneblk_a5a_162:res_470_1_10w_5__0402 $10I88
+I $10I88 beagleboneblk_a5a_162:res_470_1_10w_5__0402 DGND PWR_LEDR DXDB_LIBNAME=Resistor`REFDES=R12`DESCRIPTION=RES 4.75K OHM 1/16W 1% 0402 SMD`VALUE=4.75K`DEVICE=TYPE_0066`PKG_TYPE=402AC`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Stackpole`ManufacturerPN=RMCF0402FT4K75`
+|R 11:23:33_7-8-13
+API $10I88 beagleboneblk_a5a_162:res_470_1_10w_5__0402 1 #=1
+API $10I88 beagleboneblk_a5a_162:res_470_1_10w_5__0402 2 #=2
+M beagleboneblk_a5a_162:res_100k_1_16w_1__0402 $10I103
+I $10I103 beagleboneblk_a5a_162:res_100k_1_16w_1__0402 VDD_3V3A PMIC_INT DXDB_LIBNAME=Resistor`REFDES=R1`DESCRIPTION=RES 100KOHM 1/16W 1% 0402`VALUE=100K`DEVICE=TYPE_0033`PKG_TYPE=402N`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Yageo`ManufacturerPN=RC0402FR-07100KL`
+|R 9:35:1_7-11-13
+API $10I103 beagleboneblk_a5a_162:res_100k_1_16w_1__0402 1 #=1
+API $10I103 beagleboneblk_a5a_162:res_100k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 $10I118
+I $10I118 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 VRTC DGND VALUE=2.2UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 2.2UF 6.3V 10% X5R 0402`DEVICE=TYPE_0045`PKG_TYPE=402M`REFDES=C16`TOLERANCE=10%`RatedVoltage=6.3V`Manufacturer=TDK`ManufacturerPN=C1005X5R0J225K`
+|R 13:35:44_6-25-13
+API $10I118 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1 #=1
+API $10I118 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 2 #=2
+M beagleboneblk_a5a_162:mhole $10I133
+I $10I133 beagleboneblk_a5a_162:mhole GND_EARTH Part!List!Exclude=1`DXDB_LIBNAME=BeagleBlack`DEVICE=MHOLE_MTGH200C125D_PL_MHOLE`PKG_TYPE=MTGH200C125D_PL`REFDES=MTG3`DESCRIPTION=MOUNTNG HOLE`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 14:24:12_6-25-13
+API $10I133 beagleboneblk_a5a_162:mhole 1 #=1
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I144
+I $10I144 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND SYS_5V VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C7`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I144 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I144 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:testpt1 $10I158
+I $10I158 beagleboneblk_a5a_162:testpt1 N22420444 Part!List!Exclude=1`Model=TP`DXDB_LIBNAME=BeagleBlack`DEVICE=TESTPT1_TP60C33D_TESTPT1`PKG_TYPE=TP60C33D`REFDES=TP6`DESCRIPTION=TEST POINT`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 17:57:19_6-25-13
+API $10I158 beagleboneblk_a5a_162:testpt1 1 #=1
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I170
+I $10I170 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDDS_DDR VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805C`REFDES=C9`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I170 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I170 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I184
+I $10I184 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND SYS_5V VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C8`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I184 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I184 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 $10I198
+I $10I198 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VLDO1 VIO DXDB_LIBNAME=Resistor`REFDES=R7`TOLERANCE=1%`ManufacturerPN=RC0402JR-070RL`Manufacturer=Yageo`RatedPower=0.0625`PKG_TYPE=402M`DEVICE=TYPE_0035`VALUE=0`DESCRIPTION=RES 0.0 OHM 1/16W JUMP 0402 SMD`
+|R 17:55:2_6-25-13
+API $10I198 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+API $10I198 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 $10I213
+I $10I213 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 VDD_3V3A I2C0_SDA DXDB_LIBNAME=Resistor`REFDES=R4`DESCRIPTION=RES 1.50K OHM 1/16W 1% 0402 SMD`VALUE=1.50K`DEVICE=TYPE_0043`PKG_TYPE=402M`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Yageo`ManufacturerPN=RC0402FR-071K5L`
+|R 17:54:3_6-25-13
+API $10I213 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 1 #=1
+API $10I213 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 2 #=2
+M beagleboneblk_a5a_162:testpt1 $10I228
+I $10I228 beagleboneblk_a5a_162:testpt1 N22420447 Part!List!Exclude=1`Model=TP`DXDB_LIBNAME=BeagleBlack`DEVICE=TESTPT1_TP60C33D_TESTPT1`PKG_TYPE=TP60C33D`REFDES=TP7`DESCRIPTION=TEST POINT`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 17:57:19_6-25-13
+API $10I228 beagleboneblk_a5a_162:testpt1 1 #=1
+M beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 $10I240
+I $10I240 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 VDD_3V3AUX DGND VALUE=2.2UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 2.2UF 6.3V 10% X5R 0402`DEVICE=TYPE_0045`PKG_TYPE=402M`REFDES=C18`TOLERANCE=10%`RatedVoltage=6.3V`Manufacturer=TDK`ManufacturerPN=C1005X5R0J225K`
+|R 13:35:44_6-25-13
+API $10I240 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1 #=1
+API $10I240 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I255
+I $10I255 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND SYS_5V VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C10`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I255 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I255 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 $10I269
+I $10I269 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 VDD_3V3A I2C0_SCL DXDB_LIBNAME=Resistor`REFDES=R3`DESCRIPTION=RES 1.50K OHM 1/16W 1% 0402 SMD`VALUE=1.50K`DEVICE=TYPE_0043`PKG_TYPE=402M`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Yageo`ManufacturerPN=RC0402FR-071K5L`
+|R 17:54:3_6-25-13
+API $10I269 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 1 #=1
+API $10I269 beagleboneblk_a5a_162:res_1_5k_1_16w_5__0402_2 2 #=2
+M beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 $10I284
+I $10I284 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VLDO1 VDDS PKG_TYPE=402M`DXDB_LIBNAME=Resistor`DESCRIPTION=DO NOT POPULATE`VALUE=DNI`DEVICE=TYPE_0036`REFDES=R8`
+|R 17:55:2_6-25-13
+API $10I284 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+API $10I284 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:mhole $10I295
+I $10I295 beagleboneblk_a5a_162:mhole GND_EARTH Part!List!Exclude=1`DXDB_LIBNAME=BeagleBlack`DEVICE=MHOLE_MTGH200C125D_PL_MHOLE`PKG_TYPE=MTGH200C125D_PL`REFDES=MTG4`DESCRIPTION=MOUNTNG HOLE`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 14:24:12_6-25-13
+API $10I295 beagleboneblk_a5a_162:mhole 1 #=1
+M beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ $10I306
+I $10I306 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ VDD_3V3B DGND VALUE=0.1UF`DESCRIPTION=CAP CER 0.1UF 6.3V 10% X5R 0402`Manufacturer=TDK`ManufacturerPN=C1005X5R0J104K`RatedVoltage=6.3V`PKG_TYPE=402AC`DEVICE=TYPE_0037`DXDB_LIBNAME=Capacitor`REFDES=C20`
+|R 12:10:50_7-8-13
+API $10I306 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 1 #=1
+API $10I306 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 2 #=2
+M beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ $10I320
+I $10I320 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ DGND P_INT_LDO VALUE=0.1UF`DESCRIPTION=CAP CER 0.1UF 6.3V 10% X5R 0402`Manufacturer=TDK`ManufacturerPN=C1005X5R0J104K`RatedVoltage=6.3V`PKG_TYPE=402M`DEVICE=TYPE_0037`DXDB_LIBNAME=Capacitor`REFDES=C3`
+|R 12:10:50_7-8-13
+API $10I320 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 1 #=1
+API $10I320 beagleboneblk_a5a_162:cap_0_1uf_x5r_6_3v_20__0201_ 2 #=2
+M beagleboneblk_a5a_162:sw_kt11p2jm_2 $10I334
+I $10I334 beagleboneblk_a5a_162:sw_kt11p2jm_2 DGND DGND PWR_BUT PWR_BUT DXDB_LIBNAME=BeagleBlack`DEVICE=TYPE_0017`PKG_TYPE=SW4SMD_63X161LSA`REFDES=S3`DESCRIPTION=SWITCH TACTILE SPST-NO 0.05A 32V`Manufacturer=C&K`ManufacturerPN=KMR231GLFS`
+|R 17:56:54_6-25-13
+API $10I334 beagleboneblk_a5a_162:sw_kt11p2jm_2 1 #=1
+API $10I334 beagleboneblk_a5a_162:sw_kt11p2jm_2 2 #=3
+API $10I334 beagleboneblk_a5a_162:sw_kt11p2jm_2 3 #=2
+API $10I334 beagleboneblk_a5a_162:sw_kt11p2jm_2 4 #=4
+M beagleboneblk_a5a_162:testpt1 $10I350
+I $10I350 beagleboneblk_a5a_162:testpt1 DGND Part!List!Exclude=1`Model=TP`DXDB_LIBNAME=BeagleBlack`DEVICE=TESTPT1_TP60C33D_TESTPT1`PKG_TYPE=TP60C33D`REFDES=TP8`DESCRIPTION=TEST POINT`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 17:57:19_6-25-13
+API $10I350 beagleboneblk_a5a_162:testpt1 1 #=1
+M beagleboneblk_a5a_162:mhole $10I362
+I $10I362 beagleboneblk_a5a_162:mhole GND_EARTH Part!List!Exclude=1`DXDB_LIBNAME=BeagleBlack`DEVICE=MHOLE_MTGH200C125D_PL_MHOLE`PKG_TYPE=MTGH200C125D_PL`REFDES=MTG1`DESCRIPTION=MOUNTNG HOLE`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 14:24:12_6-25-13
+API $10I362 beagleboneblk_a5a_162:mhole 1 #=1
+M beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 $10I373
+I $10I373 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VDDS VDD_1V8 DXDB_LIBNAME=Resistor`REFDES=R9`DESCRIPTION=RES 0.0 OHM 1/16W JUMP 0402 SMD`VALUE=0`DEVICE=TYPE_0035`PKG_TYPE=402M`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Yageo`ManufacturerPN=RC0402JR-070RL`
+|R 17:55:2_6-25-13
+API $10I373 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+API $10I373 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I388
+I $10I388 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDD_MPU VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805C`REFDES=C12`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I388 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I388 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:testpt1 $10I402
+I $10I402 beagleboneblk_a5a_162:testpt1 DGND Part!List!Exclude=1`DXDB_LIBNAME=BeagleBlack`DEVICE=TESTPT1_TP1-8040_TESTPT1`PKG_TYPE=TP1-8040`REFDES=TP1`DESCRIPTION=TEST POINT`Manufacturer=DNI`ManufacturerPN=DNI`
+|R 17:57:19_6-25-13
+API $10I402 beagleboneblk_a5a_162:testpt1 1 #=1
+M beagleboneblk_a5a_162:power_jack $10I413
+I $10I413 beagleboneblk_a5a_162:power_jack VDD_5V DGND ? DXDB_LIBNAME=BeagleBlack`DEVICE=TYPE_0078`PKG_TYPE=CONN3-PWR-PJ102A`REFDES=P1`DESCRIPTION=CONN POWER JACK 2.1MM`Manufacturer=CUI`ManufacturerPN=PJ-002A`
+|R 11:18:19_6-25-13
+API $10I413 beagleboneblk_a5a_162:power_jack 1 #=1
+API $10I413 beagleboneblk_a5a_162:power_jack 2 #=2
+API $10I413 beagleboneblk_a5a_162:power_jack 3 #=3
+M beagleboneblk_a5a_162:led_ltst_c150gkt_0 $10I427
+I $10I427 beagleboneblk_a5a_162:led_ltst_c150gkt_0 VDD_3V3AUX PWR_LEDR DXDB_LIBNAME=BeagleBlack`DEVICE=TYPE_0023`PKG_TYPE=LED_0603B`REFDES=D1`DESCRIPTION=LED BLUE CLEAR THIN 0603 SMD`Manufacturer=Lite-On`ManufacturerPN=LTST-C191TBKT`
+|R 16:13:15_6-25-13
+API $10I427 beagleboneblk_a5a_162:led_ltst_c150gkt_0 1 #=2
+API $10I427 beagleboneblk_a5a_162:led_ltst_c150gkt_0 2 #=1
+M beagleboneblk_a5a_162:res_470_1_10w_5__0402 $10I441
+I $10I441 beagleboneblk_a5a_162:res_470_1_10w_5__0402 VDD_3V3B N21757673 DEVICE=TYPE_0070`DESCRIPTION=RES 280K OHM 1/16W 1% 0402`Manufacturer=Stackpole`ManufacturerPN=RMCF0402FT280K`VALUE=280K`RatedPower=0.0625`DXDB_LIBNAME=Resistor`REFDES=R11`PKG_TYPE=402AC`TOLERANCE=1%`
+|R 11:23:33_7-8-13
+API $10I441 beagleboneblk_a5a_162:res_470_1_10w_5__0402 1 #=1
+API $10I441 beagleboneblk_a5a_162:res_470_1_10w_5__0402 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I456
+I $10I456 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND SYS_5V VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C13`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I456 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I456 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I470
+I $10I470 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDD_CORE VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805C`REFDES=C11`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I470 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I470 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I484
+I $10I484 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND USB_DC VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805C`REFDES=C1`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I484 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I484 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:pwr_tlv70233dbv_0 $10I498
+I $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 N21757673 VDD_3V3AUX DGND DGND DGND DGND SYS_5V VDD_3V3B DXDB_LIBNAME=BeagleBlack`DEVICE=TYPE_0026`PKG_TYPE=SO8-25X75`REFDES=U4`DESCRIPTION=IC LDO VOLT REG 500MA 8-SOIC`Manufacturer=TI`ManufacturerPN=TL5209D`
+|R 16:46:9_6-25-13
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 1 #=4
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 2 #=1
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 3 #=5
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 4 #=7
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 4 PINTYPE=POWER
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 5 #=6
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 6 #=8
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 7 #=2
+API $10I498 beagleboneblk_a5a_162:pwr_tlv70233dbv_0 8 #=3
+M beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 $10I522
+I $10I522 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VLDO1 VRTC DXDB_LIBNAME=Resistor`REFDES=R5`TOLERANCE=1%`PKG_TYPE=402M`DEVICE=TYPE_0035`VALUE=0`RatedPower=0.0625`DESCRIPTION=RES 0.0 OHM 1/16W JUMP 0402 SMD`Manufacturer=Yageo`ManufacturerPN=RC0402JR-070RL`
+|R 17:55:2_6-25-13
+API $10I522 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+API $10I522 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 $10I537
+I $10I537 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 VDCDC1 VDDS_DDR DXDB_LIBNAME=Resistor`REFDES=R6`DESCRIPTION=RES 0.0 OHM 1/16W JUMP 0402 SMD`VALUE=0`DEVICE=TYPE_0035`PKG_TYPE=402AC`TOLERANCE=1%`RatedPower=0.0625`Manufacturer=Yageo`ManufacturerPN=RC0402JR-070RL`
+|R 17:55:2_6-25-13
+API $10I537 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 1 #=1
+API $10I537 beagleboneblk_a5a_162:res_4_75k_1_16w_1__0402 2 #=2
+M beagleboneblk_a5a_162:pwr_tps65217_2 $10I552
+I $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 VDD_5V DGND N22420400 N22420400 N22420444 P_BYPASS ? PMIC_INT P_INT_LDO ? ? ? ? P_L1 P_L2 P_L3 ? VDD_1V8 SYS_5V VDD_3V3A SYS_5V LDO_PGOOD ? ? ? ? PWR_BUT DGND PMIC_PGOOD DGND PMIC_POWR_EN ? I2C0_SCL I2C0_SDA SYS_5V SYS_5V N22420447 USB_DC VDCDC1 VDD_MPU VDD_CORE SYS_5V SYS_5V SYS_5V SYS_5V VIO VLDO1 VDD_3V3AUX WAKEUP DXDB_LIBNAME=BeagleBlack`DEVICE=TYPE_0029`PKG_TYPE=U_48_RSL`REFDES=U2`DESCRIPTION=INTEGRATED POWER MANAGEMENT UNIT`Manufacturer=TI`ManufacturerPN=TPS65217C`
+|R 11:11:54_6-25-13
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 1 #=10
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 2 #=41
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 3 #=4
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 4 #=5
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 5 #=6
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 5 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 6 #=47
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 7 #=38
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 7 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 8 #=45
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 9 #=48
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 9 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 10 #=35
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 11 #=36
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 11 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 12 #=34
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 13 #=33
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 14 #=20
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 15 #=23
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 16 #=31
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 17 #=37
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 18 #=40
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 19 #=39
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 20 #=43
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 20 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 21 #=42
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 22 #=46
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 23 #=14
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 24 #=16
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 25 #=15
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 25 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 26 #=17
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 27 #=25
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 27 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 28 #=30
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 29 #=26
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 30 #=49
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 31 #=9
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 32 #=44
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 33 #=28
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 34 #=27
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 35 #=7
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 36 #=8
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 37 #=11
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 38 #=12
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 39 #=19
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 39 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 40 #=24
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 41 #=29
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 42 #=2
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 43 #=21
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 44 #=22
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 45 #=32
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 45 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 45 Pin!Number=31
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 46 #=18
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 47 #=3
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 47 PINTYPE=IN
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 47 Pin!Number=1
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 48 #=1
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 49 #=13
+API $10I552 beagleboneblk_a5a_162:pwr_tps65217_2 49 PINTYPE=IN
+M beagleboneblk_a5a_162:res_470_1_10w_5__0402 $10I658
+I $10I658 beagleboneblk_a5a_162:res_470_1_10w_5__0402 N21757673 DGND DEVICE=TYPE_0071`DESCRIPTION=RES 470K OHM 1/16W 1% 0402 SMD`Manufacturer=Yageo`ManufacturerPN=RC0402FR-07470KL`VALUE=470K`RatedPower=0.0625`DXDB_LIBNAME=Resistor`REFDES=R10`PKG_TYPE=402M`TOLERANCE=1%`
+|R 11:23:33_7-8-13
+API $10I658 beagleboneblk_a5a_162:res_470_1_10w_5__0402 1 #=1
+API $10I658 beagleboneblk_a5a_162:res_470_1_10w_5__0402 2 #=2
+M beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd $10I673
+I $10I673 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd P_L3 VDD_CORE DXDB_LIBNAME=BeagleBlack`DESCRIPTION=INDUCTOR 2.2UH SMT 2.6A, 58 MILLIOHM`VALUE=LQM2HPN2R2MG0L`DEVICE=TYPE_0010`PKG_TYPE=2520`REFDES=L3`Manufacturer=Murata`ManufacturerPN=LQM2HPN2R2MG0L`
+|R 14:22:42_6-25-13
+API $10I673 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1 #=1
+API $10I673 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 2 #=2
+M beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd $10I686
+I $10I686 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd P_L2 VDD_MPU DXDB_LIBNAME=BeagleBlack`DESCRIPTION=INDUCTOR 2.2UH SMT 2.6A, 58 MILLIOHM`VALUE=LQM2HPN2R2MG0L`DEVICE=TYPE_0010`PKG_TYPE=2520`REFDES=L2`Manufacturer=Murata`ManufacturerPN=LQM2HPN2R2MG0L`
+|R 14:22:42_6-25-13
+API $10I686 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1 #=1
+API $10I686 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 2 #=2
+M beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 $10I699
+I $10I699 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 SYS_5V DGND VALUE=2.2UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 2.2UF 6.3V 10% X5R 0402`DEVICE=TYPE_0045`PKG_TYPE=402AC`REFDES=C17`TOLERANCE=10%`RatedVoltage=6.3V`Manufacturer=TDK`ManufacturerPN=C1005X5R0J225K`
+|R 13:35:44_6-25-13
+API $10I699 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 1 #=1
+API $10I699 beagleboneblk_a5a_162:cap_2_2uf_x5r_6_3v_10__0402 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I714
+I $10I714 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND P_BYPASS VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C4`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I714 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I714 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+M beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd $10I728
+I $10I728 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd P_L1 VDCDC1 DXDB_LIBNAME=BeagleBlack`DESCRIPTION=INDUCTOR 2.2UH SMT 2.6A, 58 MILLIOHM`VALUE=LQM2HPN2R2MG0L`DEVICE=TYPE_0010`PKG_TYPE=2520`REFDES=L1`Manufacturer=Murata`ManufacturerPN=LQM2HPN2R2MG0L`
+|R 14:22:42_6-25-13
+API $10I728 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 1 #=1
+API $10I728 beagleboneblk_a5a_162:ind_2_2uh_2_6a_10__smd 2 #=2
+M beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 $10I741
+I $10I741 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 DGND VDD_3V3A VALUE=10UF`DXDB_LIBNAME=Capacitor`DESCRIPTION=CAP CER 10UF 10V Y5V 0805`DEVICE=TYPE_0073`PKG_TYPE=805A`REFDES=C15`RatedVoltage=10V`Manufacturer=TDK`ManufacturerPN=C2012Y5V1A106Z`
+|R 14:01:49_7-10-13
+API $10I741 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 1 #=1
+API $10I741 beagleboneblk_a5a_162:cap_10uf_y5v_10v_10__0805 2 #=2
+EW

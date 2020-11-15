@@ -1,0 +1,190 @@
+[2015.01.16 13:28:42] [0000m.00s.015ms] [0] WELCOME
+[2015.01.16 13:28:42] [0000m.00s.015ms] [1] iCDB Server ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2015.01.16 13:28:42] [0000m.00s.015ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2015.01.16 13:28:42] [0000m.00s.015ms] [1] Base flow version [7.9.4]
+[2015.01.16 13:28:42] [0000m.00s.015ms] [1] GBS Install Id [27413], Flow Id [PADS 9.5], Full Flow Name [PADS 9.5], Exact Access Date [Jun 1 2012]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] Machine [REHAN-VM]  User [REHAN]  PID [2988]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] Operating system [Microsoft Windows 7 Enterprise Edition, 64-bit Service Pack 1 (build 7601)]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] Current working dir [C:\Users\REHAN\Dropbox\Scripts]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] PATH [C:\MentorGraphics\9.5PADS\SDD_HOME\wv\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.5PADS\SDD_HOME\common\win32\lib;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.5PADS\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] SDD_HOME [C:\MentorGraphics\9.5PADS\SDD_HOME] on file system [NTFS]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] SDD_PLATFORM [win32]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] WDIR [C:\VxWDIR;C:\MentorGraphics\9.5PADS\SDD_HOME\standard]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] Local iCDB working dir [C:\VxWDIR\iCDB] on file system [NTFS]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [2] S: Loading config files
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] Config file [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\cdbsvr\Server.cfg] not found
+[2015.01.16 13:28:42] [0000m.00s.031ms] [3] S: Config loaded
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Project path [C:\Users\REHAN\Desktop\BeagleBoneBlack\database] on file system [NTFS]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] S: WARNING: No project file (.prj) path specified
+[2015.01.16 13:28:42] [0000m.00s.031ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Single-user mode (auto)
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Event polling mode autodetection
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Started up automatically by iCDB Client: REHAN-VM:REHAN:1268
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Auto close mode
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Database ID [428c-dff5-f47c-6db4-a747-9b4f-7479-b450-ac8e-1eec-9e8c-4bca]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: BEGIN dumping
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: Local -> global path prefix list
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: [Z:\] -> [\\vmware-host\Shared Folders\]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: Global -> local path prefix list
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: [\\vmware-host\Shared Folders\] -> [Z:\]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] PathTranslator: END dumping
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: START
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Server startup lock file created
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Listening for client connections on port [10000]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Server network ID [REHAN-VM:134.86.112.137,REHAN-VM:10000]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Server GUID [1825-c68b-bd20-ee82-a747-9b4f-7479-b450-e97e-1eec-9e8c-4bca]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Project GUID [428c-dff5-f47c-6db4-a747-9b4f-7479-b450-ac8e-1eec-9e8c-4bca]
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Wrote data to server address file
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] S: Server startup lock file removed
+[2015.01.16 13:28:42] [0000m.00s.031ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] S: Local disc access time: 27 us
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] S: File server access time: 30 us
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] Single file [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\icdb.dat] size [52984 (51.7 kB)]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [1] Single file [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\icdb.dat] opened in read-write mode
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] Database GUARD OK: [52984]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] Database GUARD OK: [52984]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] SingleFile: [8652-9932-1872-7ddf] SFI version check [1009] [1009]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] SingleFile: [8652-9932-1872-7ddf] Database SFI header has been read in [656us]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] iCDB Server PI: Server & plugin session [3]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] iCDB Server PI: Opening database [C:\Users\REHAN\Desktop\BeagleBoneBlack\database]
+[2015.01.16 13:28:42] [0000m.00s.062ms] [0] iCDB Server PI: Database [C:\Users\REHAN\Desktop\BeagleBoneBlack\database] opened
+[2015.01.16 13:28:42] [0000m.00s.093ms] [0] iCDB Database: Checking existence of constraint definitions
+[2015.01.16 13:28:42] [0000m.00s.093ms] [0] iCDB Database: Checking constraint definitions version
+[2015.01.16 13:28:42] [0000m.00s.140ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=7fea-6020-9c35-908a-16fb-8846-6fb8-8450-a2fd-1eec-9e8c-4bca] up to date
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] iCDB Server PI: Initializing plugins
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] iCDB Server PI: Plugins initialized
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] S: iCDB database loaded
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] S: Starting threads
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] BT: Listening for broadcast messages on port [10000]
+[2015.01.16 13:28:42] [0000m.00s.187ms] [0] IT: Session [4] for host [REHAN-VM] user [REHAN] with process ID [1268] created
+[2015.01.16 13:28:42] [0000m.00s.187ms] [1] CMT: There are [1] clients now: 4
+[2015.01.16 13:28:42] [0000m.00s.203ms] [1] SC[4]: Registered sub-client [MGSREAD (iCDB)] with ID [1] for session ID [4] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:43] [0000m.00s.359ms] [1] SC[4]: UnRegistered sub-client [MGSREAD (iCDB)] with ID [1] for session ID [4] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:43] [0000m.00s.484ms] [1] CMT: Removed client [4]
+[2015.01.16 13:28:43] [0000m.00s.484ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.01.16 13:28:43] [0000m.00s.734ms] [0] IT: Session [5] for host [REHAN-VM] user [REHAN] with process ID [1268] created
+[2015.01.16 13:28:43] [0000m.00s.734ms] [1] SC[5]: Registered sub-client [MGSREAD (iCDB)] with ID [1] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:44] [0000m.01s.969ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [2] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:44] [0000m.01s.984ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:111574984] with ID [3] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:44] [0000m.01s.984ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [4] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:44] [0000m.01s.984ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90965752] with ID [5] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.328ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [4] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.328ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:111574984] with ID [3] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.328ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [2] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.328ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90965752] with ID [5] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.344ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [6] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.344ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112515696] with ID [7] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.344ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [8] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.344ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90969392] with ID [9] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.969ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [8] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.969ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112515696] with ID [7] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.969ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [6] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.969ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90969392] with ID [9] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.985ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [10] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.985ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112513608] with ID [11] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.985ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [12] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:47] [0000m.04s.985ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90969056] with ID [13] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.016ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [12] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.016ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112513608] with ID [11] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.016ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [10] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.016ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90969056] with ID [13] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.032ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [14] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.032ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112515264] with ID [15] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.032ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [16] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:48] [0000m.06s.032ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90965472] with ID [17] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.06s.985ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [16] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.06s.985ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112515264] with ID [15] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.06s.985ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [14] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.06s.985ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90965472] with ID [17] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.07s.000ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [18] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.07s.000ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112513752] with ID [19] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.07s.000ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [20] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:49] [0000m.07s.000ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90971072] with ID [21] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.469ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [20] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.485ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112513752] with ID [19] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.485ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [18] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.485ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90971072] with ID [21] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.500ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [22] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.500ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112517496] with ID [23] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.500ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [24] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:50] [0000m.07s.516ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90966144] with ID [25] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.641ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [24] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.641ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112517496] with ID [23] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.641ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [22] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.641ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90966144] with ID [25] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.657ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [26] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.672ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112514040] with ID [27] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.672ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [28] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:51] [0000m.08s.672ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90967712] with ID [29] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.813ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [28] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.813ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112514040] with ID [27] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.813ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [26] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.813ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90967712] with ID [29] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.829ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [30] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.829ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112511592] with ID [31] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.845ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [32] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:52] [0000m.09s.845ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90971800] with ID [33] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.10s.970ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [32] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.10s.970ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112511592] with ID [31] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.10s.970ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [30] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.10s.970ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90971800] with ID [33] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.11s.001ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [34] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.11s.001ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:111578080] with ID [35] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.11s.001ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [36] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:53] [0000m.11s.001ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90971520] with ID [37] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.142ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [36] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.142ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:111578080] with ID [35] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.142ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [34] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.142ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90971520] with ID [37] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.157ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [38] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.157ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112514184] with ID [39] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.157ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [40] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:54] [0000m.12s.157ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90969840] with ID [41] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.970ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [40] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.970ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112514184] with ID [39] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.970ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [38] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.970ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90969840] with ID [41] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.986ms] [1] SC[5]: Registered sub-client [ObjectHolder_56013696] with ID [42] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.12s.986ms] [1] SC[5]: Registered sub-client [BlockCacheDxD:112516848] with ID [43] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.001ms] [1] SC[5]: Registered sub-client [GlobalNetAliasUpdater_56013872] with ID [44] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.001ms] [1] SC[5]: Registered sub-client [IcdbNetProcessorSubClientDxD:90959704] with ID [45] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.032ms] [1] SC[5]: UnRegistered sub-client [GlobalNetAliasUpdater_56013872] with ID [44] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.048ms] [1] SC[5]: UnRegistered sub-client [BlockCacheDxD:112516848] with ID [43] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.048ms] [1] SC[5]: UnRegistered sub-client [ObjectHolder_56013696] with ID [42] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:55] [0000m.13s.048ms] [1] SC[5]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:90959704] with ID [45] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:56] [0000m.13s.220ms] [1] SC[5]: UnRegistered sub-client [MGSREAD (iCDB)] with ID [1] for session ID [5] host [REHAN-VM] user [REHAN] process ID [1268]
+[2015.01.16 13:28:56] [0000m.13s.501ms] [1] CMT: Removed client [5]
+[2015.01.16 13:28:56] [0000m.13s.501ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.01.16 13:28:58] [0000m.15s.251ms] [0] CMT: Starting server auto-close
+[2015.01.16 13:28:58] [0000m.15s.298ms] [0] S: Closing server
+[2015.01.16 13:28:58] [0000m.15s.314ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2015.01.16 13:28:58] [0000m.15s.408ms] [0] iCDB Server PI: Closing plugins
+[2015.01.16 13:28:58] [0000m.15s.408ms] [0] iCDB Server PI: Plugins closed
+[2015.01.16 13:28:58] [0000m.15s.408ms] [0] iCDB Server PI: Unloading database
+[2015.01.16 13:28:58] [0000m.15s.408ms] [0] iCDB Server PI: Saving storage
+[2015.01.16 13:28:58] [0000m.15s.408ms] [0] iCDB Server PI: Closing database
+[2015.01.16 13:28:58] [0000m.15s.408ms] [1] iCDB Server PI: Stats: Database defragmentation: max[6] avg[1] holes[78%] data[98%]
+[2015.01.16 13:28:58] [0000m.15s.408ms] [1] iCDB Server PI: Stats: Database file size [618728 (604.2 kB)]
+[2015.01.16 13:28:58] [0000m.15s.408ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2015.01.16 13:28:58] [0000m.15s.423ms] [0] iCDB Server PI: Database closed
+[2015.01.16 13:28:58] [0000m.15s.423ms] [0] iCDB Server PI: Defragmenting database
+[2015.01.16 13:28:58] [0000m.15s.423ms] [0] iCDB Server PI: Creating database [C:\Users\REHAN\Desktop\BeagleBoneBlack\database] backup to file [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\cdbback\2015-01-16 13.28.58-2988-d.zip]
+[2015.01.16 13:28:58] [0000m.15s.439ms] [0] iCDB Server PI: Database backup: DONE
+[2015.01.16 13:28:58] [0000m.15s.470ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.01.16 13:28:58] [0000m.15s.470ms] [0] Database GUARD OK: [618728]
+[2015.01.16 13:28:58] [0000m.15s.470ms] [0] SingleFile: [8652-9932-1872-7ddf] SFI version check [1009] [1009]
+[2015.01.16 13:28:58] [0000m.15s.470ms] [0] SingleFile: [8652-9932-1872-7ddf] Database SFI header has been read in [2ms 539us]
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] iCDB Server PI: Stats: Database file sizes: before[618728 (604.2 kB)], after[360176 (351.7 kB)], gain[258552 (252.5 kB)]
+[2015.01.16 13:28:58] [0000m.15s.517ms] [0] Single file [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\icdb.dat] closed with size [360176 (351.7 kB)]
+[2015.01.16 13:28:58] [0000m.15s.517ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] BackupTransaction: Removing database backup [C:\Users\REHAN\Desktop\BeagleBoneBlack\database\cdbback\2015-01-16 13.28.58-2988-d.zip]
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [5793380] ticks
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1618468] microseconds
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [14924]
+[2015.01.16 13:28:58] [0000m.15s.517ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [9221] commands per second
+[2015.01.16 13:28:58] [0000m.15s.517ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2015.01.16 13:28:58] [0000m.15s.720ms] [0] S: STOP
