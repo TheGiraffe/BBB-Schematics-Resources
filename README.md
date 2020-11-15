@@ -1,1 +1,1 @@
-# BBB-Schematics-Resources
+# GU-BBB-Schematics-Resources
