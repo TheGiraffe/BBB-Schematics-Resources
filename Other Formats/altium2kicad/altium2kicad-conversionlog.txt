@@ -1,0 +1,405 @@
+Archive:  db/7683.zip
+  inflating: db/7683/P11_Exp Conn, uSD.SchDoc  
+  inflating: db/7683/P10_HDMI.SchDoc  
+  inflating: db/7683/P03_AM335x 1_3, JTAG.SchDoc  
+  inflating: db/7683/P01_Title Page.SchDoc  
+  inflating: db/7683/P06_LED, Config.SchDoc  
+  inflating: db/7683/P08_eMMC FLASH.SchDoc  
+  inflating: db/7683/P05_AM335x 3_3.SchDoc  
+  inflating: db/7683/P02_Power Management.SchDoc  
+  inflating: db/7683/P07_DDR3 Memory.SchDoc  
+  inflating: db/7683/P04_AM335x 2_3, USB.SchDoc  
+  inflating: db/7683/P09_10_100 Ethernet.SchDoc  
+Loading P01_Title Page.SchDoc
+
+Loading P02_Power Management.SchDoc
+
+Loading P03_AM335x 1_3, JTAG.SchDoc
+
+Loading P04_AM335x 2_3, USB.SchDoc
+
+Loading P05_AM335x 3_3.SchDoc
+
+Loading P06_LED, Config.SchDoc
+
+Loading P07_DDR3 Memory.SchDoc
+
+Loading P08_eMMC FLASH.SchDoc
+
+Loading P09_10_100 Ethernet.SchDoc
+
+Loading P10_HDMI.SchDoc
+
+Loading P11_Exp Conn, uSD.SchDoc
+
+Done.
+Handling P01_Title Page-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Handling P02_Power Management-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Handling P03_AM335x 1_3, JTAG-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P04_AM335x 2_3, USB-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Handling P05_AM335x 3_3-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P06_LED, Config-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+ERROR: Image_1.bmp not found!
+Handling P07_DDR3 Memory-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P08_eMMC FLASH-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P09_10_100 Ethernet-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P10_HDMI-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P11_Exp Conn, uSD-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 30
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling P01_Title Page.SchDoc
+Handling P02_Power Management.SchDoc
+Handling P03_AM335x 1_3, JTAG.SchDoc
+Handling P04_AM335x 2_3, USB.SchDoc
+Handling P05_AM335x 3_3.SchDoc
+Handling P06_LED, Config.SchDoc
+Handling P07_DDR3 Memory.SchDoc
+Handling P08_eMMC FLASH.SchDoc
+Handling P09_10_100 Ethernet.SchDoc
+Handling P10_HDMI.SchDoc
+Handling P11_Exp Conn, uSD.SchDoc
+No unpacked .PcbDoc documents found. Trying to unpack it:
+Loading P01_Title Page.SchDoc
+
+Loading P02_Power Management.SchDoc
+
+Loading P03_AM335x 1_3, JTAG.SchDoc
+
+Loading P04_AM335x 2_3, USB.SchDoc
+
+Loading P05_AM335x 3_3.SchDoc
+
+Loading P06_LED, Config.SchDoc
+
+Loading P07_DDR3 Memory.SchDoc
+
+Loading P08_eMMC FLASH.SchDoc
+
+Loading P09_10_100 Ethernet.SchDoc
+
+Loading P10_HDMI.SchDoc
+
+Loading P11_Exp Conn, uSD.SchDoc
+
+Done.
+There were no unpacked PcbDoc files found.
